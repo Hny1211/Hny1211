@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Harsh
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning Diploma in Computer Eng.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on frontend developer.
 - 📫 How to reach me +91 8320200703 or
 -    harshilparmar1211@gmail.com
 
